@@ -13,5 +13,5 @@ connecting directly to the CAN-C STAR connector for an integrated installation.
 **Modules used:** 
 - //TODO
 
-**Changelog**
+**Changelog:**
 - v1.0 : LED hue working, brightness defaults to 65%
