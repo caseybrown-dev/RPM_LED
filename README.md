@@ -1,5 +1,5 @@
 # RPM_LED
-Arduino reads RPM data from CAN bus to control interior led hue.
+Arduino reads RPM data from CAN bus to control interior LED hue.
 LEDs appear blue-white at idle, red at redline. LEDs flash when near redline.
 Paramaters are set to 2011-2014 Dodge Charger with 5.7L V8.
 Should be compatible with any vehicle with a CAN bus, just change redline value
