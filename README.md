@@ -7,8 +7,8 @@ to your engine. Idle is not currently used. Can use OBDII port, I will be
 connecting directly to the CAN-C STAR connector for an integrated installation.
 
 In development:
-• Change LED color to Amber if Malfunction Indicator Light is illuminated
-• Read voltage from interior light switch to determine appropriate brightness
+- Change LED color to Amber if Malfunction Indicator Light is illuminated
+- Read voltage from interior light switch to determine appropriate brightness
 
 Modules used: //TODO
 
