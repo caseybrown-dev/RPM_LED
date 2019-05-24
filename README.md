@@ -12,4 +12,5 @@ In development:
 
 Modules used: //TODO
 
-v1.0 - LED hue working, brightness defaults to 65%
+Changelog
+- v1.0 : LED hue working, brightness defaults to 65%
